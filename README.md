@@ -1,6 +1,6 @@
 # dotnet-cli-wordle
 
-👋 This is a beginner project for creating a meaningful first CLI.
+👋 This is a beginner project for creating a meaningful first CLI. The CLI is 
 
 ## Specs
 
@@ -20,3 +20,13 @@
 
 ## Approach
 - **Spectre.Console**: For this we are using the .NET Foundation package Spectre.Console - commonly used for making nice CLI's
+- **Single Program**: This is a simple one-command program which should run consistently each time
+
+### What will you learn?
+- Basic Libraries
+- Logic
+- Making something fun!
+
+### Where next? 
+- Expansions: Output the used letters of the alphabet
+- Hangman: Try adapting this to make your own version of hangman!
