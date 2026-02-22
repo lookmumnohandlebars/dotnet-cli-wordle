@@ -1,6 +1,6 @@
 # dotnet-cli-wordle
 
-👋 This is a beginner project for creating a meaningful first CLI. The CLI is 
+👋 This is a beginner project for creating a meaningful first CLI. The CLI here is for the popular NYT game Wordle - a 5-letter word guessing game.
 
 ## Specs
 
