@@ -1,10 +1,11 @@
 #  Wordle... But it's a .NET CLI!
 
 👋 This is a beginner project for creating a meaningful first CLI. The CLI here is for the popular NYT game Wordle - a 5-letter word guessing game.
+<p align="center">
+  <img width="2160" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1a06c92-6153-434f-864a-e3490f07397b" />
 
-<img width="2160" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1a06c92-6153-434f-864a-e3490f07397b" />
-
-<img width="658" height="216" alt="Screenshot 2026-02-22 at 22 10 33" src="https://github.com/user-attachments/assets/94ad48fc-313a-411e-9001-7b419139e8fd" />
+  <img width="658" height="216" alt="Screenshot 2026-02-22 at 22 10 33" src="https://github.com/user-attachments/assets/94ad48fc-313a-411e-9001-7b419139e8fd" style=''/>
+</p>
 
 ## ✅ Specs
 
