@@ -1,8 +1,8 @@
-# Wordle... But it's a .NET CLI!
+# ⌨ Wordle... But it's a .NET CLI!
 
 👋 This is a beginner project for creating a meaningful first CLI. The CLI here is for the popular NYT game Wordle - a 5-letter word guessing game.
 
-## Specs
+## ✅ Specs
 
 ### Requirements
 
@@ -18,7 +18,7 @@
 5. If a player guesses any of the letters correctly in a different place as the word, they should receieve an indication that the letter is in the word in a different place, up to the number of times that letter appears in the word
 6. For all letters that do not match the player should see that the letter is not in the word.
 
-## Approach
+## 🚝 Approach
 - **Spectre.Console**: For this we are using the .NET Foundation package Spectre.Console - commonly used for making nice CLI's
 - **Single Program**: This is a simple one-command program which should run consistently each time
 
