@@ -1,7 +1,8 @@
 <p align="center">
   <img width="2160" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1a06c92-6153-434f-864a-e3490f07397b" />
 </p>
-#  Wordle... But it's a .NET CLI!
+
+# Wordle... But it's a .NET CLI!
 
 👋 This is a beginner project for creating a meaningful first CLI. The CLI here is for the popular NYT game Wordle - a 5-letter word guessing game.
 <p align="center">
