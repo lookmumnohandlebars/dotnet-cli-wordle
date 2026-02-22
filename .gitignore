@@ -52,3 +52,10 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+## MAC
+.DS_STORE
+**/.DS_STORE
+
+## IDE's
+.idea/
